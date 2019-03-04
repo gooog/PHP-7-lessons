@@ -1,26 +1,26 @@
-Arithmetic Operators:
-=, -, +, /, *, %, **
+<h4>Arithmetic Operators:</h4>
+<p>=, -, +, /, *, %, **</p>
 
-Assignment Operators:
-x = y, x += y, x -= y, x *= y, x /= y, x %= y
+<h4>Assignment Operators:</h4>
+<p>x = y, x += y, x -= y, x *= y, x /= y, x %= y</p>
 
-Comparison Operators:
->, <, ==, ===, >=, <=, !=, <>, !==, <=>
+<h4>Comparison Operators:</h4>
+<p>>, <, ==, ===, >=, <=, !=, <>, !==, <=></p>
 
-Increment / Decrement Operators:
-++$x, $x++, $x--, --$x
+<h4>Increment / Decrement Operators:</h4>
+<p>++$x, $x++, $x--, --$x</p>
 
-Logical Operators:
-and, or, xor, &&, ||, !
+<h4>Logical Operators:</h4>
+<p>and, or, xor, &&, ||, !</p>
 
-String Operators:
-., .=
+<h4>String Operators:</h4>
+<p>., .=</p>
 
-Array Operators:
-+, ==, ===, !=, <>, !==
+<h4>Array Operators:</h4>
+<p>+, ==, ===, !=, <>, !==</p>
 
-Conditional Assignment Operators:
-?:, ??
+<h4>Conditional Assignment Operators:</h4>
+<p>?:, ??</p>
 
-PHP statement:
-if, else
+<h4>PHP statement:</h4>
+<p>if, else</p>
